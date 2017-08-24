@@ -22,7 +22,7 @@ Figaro app implements the following features:
 
 Release Notes
 ======
-- The application works in instagram sandbox mode (this is the only option that instagram gives you until your app is reviewed by them). That’s why the instagram API gives us a very limited subset of media. It works only for sandbox users invited to this application. 
+The application works in instagram sandbox mode (this is the only option that instagram gives you until your app is reviewed by them). That’s why the instagram API gives us a very limited subset of media. It works only for sandbox users invited to this application. 
 
 Getting Started
 ======
