@@ -34,7 +34,7 @@ Used libraries
 ======
 
 - Picasso for loading and rendering images.
-- CommonsIO/CommonsHttpClient for accessing GitHub REST api.
+- CommonsIO/CommonsHttpClient for accessing instagram REST api.
 - A number of standard Android libraries.
 
 The app was built using latest android studio 3.0 Canary 9.
