@@ -30,7 +30,15 @@ Getting Started
 - Use client_credentials.xml to put API key and your callback Uri into there. 
 - Create a second instagram account and make it a sandbox user for the app (and connect the 2nd user to your initial instagram test account) and post some media in the tested location area. 
 
+Used libraries
+======
+
+Picasso for loading and rendering images.
+CommonsIO/CommonsHttpClient for accessing GitHub REST api.
+A number of standard Android libraries.
+
 The app was built using latest android studio 3.0 Canary 9.
+
 Application min API Level: 23
 
 License
