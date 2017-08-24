@@ -1,5 +1,5 @@
-# Figaro
 
+#  ![icons8-comedy-100](https://user-images.githubusercontent.com/6971421/29690362-82d0e6a0-88db-11e7-8a34-bc84b0142bb2.png) Figaro 
 Overview
 ======
 Figaro is a user guide in his/her current location area, which allows authorized users to connect to their instagram profile, see videos or images taken in nearby area, see posted media and other people opinions about places of interest, favorite attractions, restaurants, events and more.
