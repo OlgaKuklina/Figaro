@@ -4,6 +4,8 @@
 
 ![figaro7](https://user-images.githubusercontent.com/6971421/29691475-f9eaccc0-88df-11e7-943f-9f89f8937d39.jpg)
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/11f82c7825fe4143bc2b0484df647b8c)](https://www.codacy.com/app/OlgaKuklina/Figaro?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=OlgaKuklina/Figaro&amp;utm_campaign=Badge_Grade)
+
 Overview
 ======
 Figaro is a user guide in his/her current location area, which allows authorized users to connect to their instagram profile, see videos or images taken in nearby area, see posted media and other people opinions about places of interest, favorite attractions, restaurants, events and more.
