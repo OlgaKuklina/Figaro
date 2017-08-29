@@ -2,7 +2,7 @@
 #  ![icons8-comedy-100](https://user-images.githubusercontent.com/6971421/29690362-82d0e6a0-88db-11e7-8a34-bc84b0142bb2.png) Figaro 
 
 
-![figarogeneralscreen](https://user-images.githubusercontent.com/6971421/29843738-d0a06b28-8cc1-11e7-85ba-877ec10b3f9d.jpg)
+![figarogeneralcontext](https://user-images.githubusercontent.com/6971421/29844477-467a69d2-8cc4-11e7-819b-45878a13b071.jpg)
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/11f82c7825fe4143bc2b0484df647b8c)](https://www.codacy.com/app/OlgaKuklina/Figaro?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=OlgaKuklina/Figaro&amp;utm_campaign=Badge_Grade)
 
