@@ -4,7 +4,7 @@
 
 ![figarogeneralcontext](https://user-images.githubusercontent.com/6971421/29844477-467a69d2-8cc4-11e7-819b-45878a13b071.jpg)
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/11f82c7825fe4143bc2b0484df647b8c)](https://www.codacy.com/app/OlgaKuklina/Figaro?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=OlgaKuklina/Figaro&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/11f82c7825fe4143bc2b0484df647b8c)](https://www.codacy.com/app/OlgaKuklina/Figaro?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=OlgaKuklina/Figaro&amp;utm_campaign=Badge_Grade) [![Build Status](https://travis-ci.org/OlgaKuklina/Figaro.svg?branch=master)](https://travis-ci.org/OlgaKuklina/Figaro)
 
 Overview
 ======
