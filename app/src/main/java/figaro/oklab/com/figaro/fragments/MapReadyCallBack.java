@@ -31,6 +31,7 @@ import figaro.oklab.com.figaro.R;
 import figaro.oklab.com.figaro.asynctasks.MediaContentLoader;
 import figaro.oklab.com.figaro.data.MediaContentDataEntry;
 import figaro.oklab.com.figaro.data.ParseResult;
+import figaro.oklab.com.figaro.utils.TransformToCircle;
 import figaro.oklab.com.figaro.utils.Utils;
 
 /**
@@ -108,7 +109,7 @@ public class MapReadyCallBack implements OnMapReadyCallback {
                         }
                     };
                     targets.add(target);
-                    Picasso.with(activity).load(entry.getContentData().getContentUri()).resize(100, 100).into(target);
+                    Picasso.with(activity).load(entry.getContentData().getContentUri()).resize(100, 100).transform(new TransformToCircle()).into(target);
                 }
 
             }
