@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF9800</color>
+    <color name="colorPrimaryDark">#f76904</color>
+    <color name="colorAccent">#5d91ab</color>
+
+    <color name="primary_text_color_dark">#212121</color>
+    <color name="primary_text_color_inverse">#edecec</color>
+    <color name="divider_color">#B6B6B6</color>
+
+    <array name="swipe_to_refresh_progress_colors">
+        <item>#f76904</item>
+        <item>#09A3EA</item>
+    </array>
+</resources>

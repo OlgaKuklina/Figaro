@@ -1,0 +1,44 @@
+<resources>
+
+    <string name="app_name">Figaro</string>
+
+    <!-- Strings related to BottomNavigationView -->
+    <string name="title_home">Home</string>
+    <string name="title_by_location">Around me</string>
+    <string name="title_map">Map</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_sign_out">Sign out</string>
+
+    <!-- Strings related to instagram requests -->
+    <string name="url_feeds" translatable="false">https://api.instagram.com/v1/media/search?lat=%2$f&amp;lng=%3$f&amp;access_token=%1$s&amp;distance=%4$s</string>
+    <string name="url_home" translatable="false">https://api.instagram.com/v1/users/self/media/recent/?access_token=%1$s&amp;count=5</string>
+    <string name="url_template" translatable="false">https://api.instagram.com/oauth/authorize/?client_id=%1$s&amp;redirect_uri=%2$s&amp;response_type=token&amp;scope=likes+comments+public_content+basic+follower_list+relationships</string>
+
+
+    <!-- Strings related to Settings -->
+    <string name="title_activity_settings">Settings</string>
+    <!--  settings for Data & Sync -->
+    <string name="pref_header_data_sync">Location Data &amp; sync</string>
+
+    <string name="pref_radius_zoom">Location Radius</string>
+    <string-array name="pref_radius_zoom_titles">
+        <item>1000 meters</item>
+        <item>2000 meters </item>
+        <item>3000 meters</item>
+        <item>4000 meters</item>
+        <item>5000 meters</item>
+    </string-array>
+    <string-array name="pref_radius_zoom_values">
+        <item>1000</item>
+        <item>2000</item>
+        <item>3000</item>
+        <item>4000</item>
+        <item>5000</item>
+    </string-array>
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+</resources>
