@@ -20,7 +20,7 @@ Figaro app implements the following features:
 - See all media content in the google map. 
 - Change radius of the media search service.
 - Browse recent media posted by authenticated user
-- The pagination feature was implemented for item 5 via infinite scrolling with page size = 5. See the source code for details.
+- The pagination feature was implemented for home page via infinite scrolling with page size = 5. See the source code for details.
 
 Release Notes
 ======
